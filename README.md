@@ -1,2 +1,2 @@
-# dnsbl-white
-DNSBL Whitelist
+# dnsbl
+DNSBL
