@@ -5,4 +5,4 @@ googletagservices.com	#website tracker
 instagram.com	
 persgroep.nl	
 scorecardresearch.com	
-
+outbrain.com #ads
