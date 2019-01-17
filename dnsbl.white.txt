@@ -1,24 +1,46 @@
+abnamro.nl	
+avast.com	
+cdn77.com	
+goodwe-power.com	
+jselec.com	
 maps.googleapis.com	
+media.nu.nl	
 mozilla.net	
+mychannels.video 	#omroepbrabant ed videos
+netflix.com 	#netflix
+nflxext.com 	#netflix
+nflximg.net 	#netflix
+nflxvideo.net 	#netflix
 noscript.net	
+office365.com	
+office365.com	
 outlook.com	
+outlook.office365.com	
 overheid.nl	
 passport.com	
 passport.net	
 passportimages.com	
 paypal.com	
 paypalobjects.com	
+peelhaas.nl	
+rabobank.com	
 rabobank.nl	
+rabobank.nl	
+redblue.de 	#mediamarkt website
 securecode.com	
 securesuite.net	
 sfx.ms	# OneDrive client updates
 signage.me	# DigitalSignage
+simyo.nl	
+spclient.wg.spotify.com	
+t.co	
+theoplayer.com	#embedded videoplayer
+tweakers.net	
+tweakimg.net	
+twitter.com	
+vdeweb.com	
+vrbzo.nl	
 wlxrs.com	
 youforce.biz	
 youtube.com	
 ytimg.com	
-office365.com	
-tweakers.net	
-tweakimg.net	
-theoplayer.com	
-
