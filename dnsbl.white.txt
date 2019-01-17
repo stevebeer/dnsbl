@@ -1,0 +1,24 @@
+maps.googleapis.com	
+mozilla.net	
+noscript.net	
+outlook.com	
+overheid.nl	
+passport.com	
+passport.net	
+passportimages.com	
+paypal.com	
+paypalobjects.com	
+rabobank.nl	
+securecode.com	
+securesuite.net	
+sfx.ms	# OneDrive client updates
+signage.me	# DigitalSignage
+wlxrs.com	
+youforce.biz	
+youtube.com	
+ytimg.com	
+office365.com	
+tweakers.net	
+tweakimg.net	
+theoplayer.com	
+
