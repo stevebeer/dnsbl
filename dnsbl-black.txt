@@ -1,7 +1,8 @@
-chartbeat.com	#website usage tracking
+chartbeat.com	#website usage tracking analytics
 effectivemeasure.net	
 googletagmanager.com	#website tracker
 googletagservices.com	#website tracker
+googleadservices.com
 instagram.com	
 persgroep.nl	
 scorecardresearch.com	
@@ -10,3 +11,4 @@ adrequest.net #ads
 crwdcntrl.net
 doubleclick.net
 nextday.media
+bugsnag.com #Bugsnag monitors apps for errors that impact customers & reports all diagnostic data.
