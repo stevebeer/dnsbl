@@ -12,3 +12,5 @@ crwdcntrl.net
 doubleclick.net
 nextday.media
 bugsnag.com #Bugsnag monitors apps for errors that impact customers & reports all diagnostic data.
+gigya.com #The Leader in Customer Identity Management
+shoppingminds.com #Turning visitors into customers
