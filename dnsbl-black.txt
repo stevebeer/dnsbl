@@ -3,8 +3,6 @@ effectivemeasure.net
 googletagmanager.com	#website tracker
 googletagservices.com	#website tracker
 googleadservices.com
-instagram.com	
-persgroep.nl	
 scorecardresearch.com	
 outbrain.com #ads
 adrequest.net #ads
