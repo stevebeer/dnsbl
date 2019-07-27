@@ -2,6 +2,8 @@ analytics.ff.avast.com
 app-measurement.com
 e.crashlytics.com
 events.appsflyer.com
+events.redditmedia.com
+googleads.g.doubleclick.net
 logx.optimizely.com
 msmetrics.ws.sonos.com
 open.oneplus.net
