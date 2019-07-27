@@ -1,17 +1,27 @@
+e.crashlytics.com #google crash reporting
+settings.crashlytics.com #google crash reporting
+reports.crashlytics.com #google crash reporting
+dpm.demdex.net #adobe audience manager
+
+www.googletagmanager.com
 analytics.ff.avast.com
 app-measurement.com
-e.crashlytics.com
 events.appsflyer.com
 events.redditmedia.com
+
 googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+
+v10.events.data.microsoft.com #MS telemetry
+watson.telemetry.microsoft.com #MS telemetry
+settings-win.data.microsoft.com #MS telemetry
+
 logx.optimizely.com
 msmetrics.ws.sonos.com
 open.oneplus.net
-pubads.g.doubleclick.net
 reports.crashlytics.com
 s.youtube.com
-settings-win.data.microsoft.com
 ssl.google-analytics.com
 t.appsflyer.com
-v10.events.data.microsoft.com
-watson.telemetry.microsoft.com
+
+api.branch.io
