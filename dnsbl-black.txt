@@ -1,14 +1,15 @@
-chartbeat.com	#website usage tracking analytics
-effectivemeasure.net	
-googletagmanager.com	#website tracker
-googletagservices.com	#website tracker
-googleadservices.com
-scorecardresearch.com	
-outbrain.com #ads
-adrequest.net #ads
-crwdcntrl.net
-doubleclick.net
-nextday.media
-bugsnag.com #Bugsnag monitors apps for errors that impact customers & reports all diagnostic data.
-gigya.com #The Leader in Customer Identity Management
-shoppingminds.com #Turning visitors into customers
+reports.crashlytics.com
+logx.optimizely.com
+msmetrics.ws.sonos.com
+ssl.google-analytics.com
+analytics.ff.avast.com
+settings-win.data.microsoft.com
+open.oneplus.net
+v10.events.data.microsoft.com
+watson.telemetry.microsoft.com
+app-measurement.com
+e.crashlytics.com
+pubads.g.doubleclick.net
+t.appsflyer.com
+events.appsflyer.com
+s.youtube.com
