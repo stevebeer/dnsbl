@@ -1,51 +1,41 @@
-e.crashlytics.com #google crash reporting
-settings.crashlytics.com #google crash reporting
-reports.crashlytics.com #google crash reporting
-dpm.demdex.net #adobe audience manager
+acdn.adnxs.com
 adservice.google.nl
-www.googletagmanager.com
-googleads.g.doubleclick.net
-ssl.google-analytics.com
-www.googletagservices.com
-www.google-analytics.com
-
 analytics.ff.avast.com
+api.branch.io
 app-measurement.com
+b.scorecardresearch.com
+c.go-mpulse.net
+cdn.krxd.net
+cm.g.doubleclick.net
+collector.githubapp.com
+d2oh4tlt9mrke9.cloudfront.net
+dev.visualwebsiteoptimizer.com
+dpm.demdex.net #adobe audience manager
+ds-aksb-a.akamaihd.net
+e.crashlytics.com #google crash reporting
 events.appsflyer.com
 events.redditmedia.com
-
-pubads.g.doubleclick.net
-
-v10.events.data.microsoft.com #MS telemetry
-watson.telemetry.microsoft.com #MS telemetry
-settings-win.data.microsoft.com #MS telemetry
-
+googleads.g.doubleclick.net
+gscounters.eu1.gigya.com
 logx.optimizely.com
 msmetrics.ws.sonos.com
 open.oneplus.net
+pubads.g.doubleclick.net
 reports.crashlytics.com
 s.youtube.com
-t.appsflyer.com
-
-api.branch.io
-collector.githubapp.com
-adservice.google.nl #Tracking
-d2oh4tlt9mrke9.cloudfront.net
-track.adform.net
-ds-aksb-a.akamaihd.net
-
-cdn.krxd.net
-c.go-mpulse.net
-gscounters.eu1.gigya.com
-scdn.cxense.com
-w.usabilla.com
-static.hotjar.com
 sb.scorecardresearch.com
-acdn.adnxs.com
-cdn.krxd.net
-cm.g.doubleclick.net
-dev.visualwebsiteoptimizer.com
 sb.voicefive.com
+scdn.cxense.com
+settings-win.data.microsoft.com #MS telemetry
+settings.crashlytics.com #google crash reporting
 socialize.eu1.gigya.com
-b.scorecardresearch.com
-socialize.eu1.gigya.com
+ssl.google-analytics.com
+static.hotjar.com
+t.appsflyer.com
+track.adform.net
+v10.events.data.microsoft.com #MS telemetry
+w.usabilla.com
+watson.telemetry.microsoft.com #MS telemetry
+www.google-analytics.com
+www.googletagmanager.com
+www.googletagservices.com
