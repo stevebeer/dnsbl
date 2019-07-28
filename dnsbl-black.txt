@@ -1,4 +1,7 @@
-
+mediation.adnxs.com
+adservice.google.com
+mads.amazon-adsystem.com
+csi.gstatic.com
 tempest.services.disqus.com
 referrer.disqus.com
 adservice.google.com
