@@ -1,3 +1,7 @@
+ade.googlesyndication.com
+www.googleadservices.com
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
 assets.adobedtm.com
 stats.wp.com
 data.flurry.com
