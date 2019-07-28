@@ -1,3 +1,4 @@
+sat.sanoma.fi
 static.doubleclick.net
 mediation.adnxs.com
 adservice.google.com
