@@ -1,3 +1,4 @@
+assets.adobedtm.com
 stats.wp.com
 data.flurry.com
 vendorlist.consensu.org
