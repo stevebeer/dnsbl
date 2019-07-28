@@ -1,3 +1,5 @@
+stats.wp.com
+data.flurry.com
 vendorlist.consensu.org
 h-adashx.ut.taobao.com
 applog.uc.cn
