@@ -1,3 +1,4 @@
+static.doubleclick.net
 mediation.adnxs.com
 adservice.google.com
 mads.amazon-adsystem.com
