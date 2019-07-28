@@ -1,3 +1,7 @@
+
+tempest.services.disqus.com
+referrer.disqus.com
+adservice.google.com
 alb.reddit.com
 ade.googlesyndication.com
 adservice.google.nl
