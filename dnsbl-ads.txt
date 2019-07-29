@@ -1,1 +1,8 @@
 ads.mopub.com                             #mobile ads by Twitter company
+adservice.google.com                      #ads by Google
+z.moatads.com                             #ads by moat.com
+googleads.g.doubleclick.net
+adservice.google.nl
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+www.googleadservices.com
