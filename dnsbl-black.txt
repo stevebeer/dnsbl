@@ -1,3 +1,4 @@
+graph.facebook.com
 app-measurement.com
 z.moatads.com
 ads.mopub.com
