@@ -1,3 +1,9 @@
+app-measurement.com
+z.moatads.com
+ads.mopub.com
+Logx.optimizely.com
+app.adjust.com
+googleads.g.doubleclick.net
 jwpltx.com
 sat.sanoma.fi
 static.doubleclick.net
