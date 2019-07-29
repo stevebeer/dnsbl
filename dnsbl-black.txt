@@ -19,24 +19,17 @@ NL.lgtvsdp.com
 arc.msn.com
 graph.facebook.com
 app-measurement.com
-z.moatads.com
-ads.mopub.com
 Logx.optimizely.com
 app.adjust.com
-googleads.g.doubleclick.net
 jwpltx.com
 sat.sanoma.fi
 static.doubleclick.net
 mediation.adnxs.com
-adservice.google.com
-mads.amazon-adsystem.com
 csi.gstatic.com
 tempest.services.disqus.com
 referrer.disqus.com
-adservice.google.com
 alb.reddit.com
 ade.googlesyndication.com
-adservice.google.nl
 analytics.ff.avast.com
 api.branch.io
 app-measurement.com
@@ -55,7 +48,6 @@ ds-aksb-a.akamaihd.net
 e.crashlytics.com #google crash reporting
 events.appsflyer.com
 events.redditmedia.com
-googleads.g.doubleclick.net
 gscounters.eu1.gigya.com
 h-adashx.ut.taobao.com
 logx.optimizely.com
@@ -63,14 +55,12 @@ msmetrics.ws.sonos.com
 mus.lenovo.com
 open.oneplus.net
 pagead2.googlesyndication.com
-pubads.g.doubleclick.net
 reports.crashlytics.com
 s.youtube.com
 sb.scorecardresearch.com
 sb.voicefive.com
 scdn.cxense.com
 scomcluster.cxense.comdevice-api.urbanairship.comacdn.adnxs.com
-securepubads.g.doubleclick.net
 settings-win.data.microsoft.com #MS telemetry
 settings.crashlytics.com #google crash reporting
 socialize.eu1.gigya.com
@@ -85,6 +75,5 @@ w.usabilla.com
 watson.telemetry.microsoft.com #MS telemetry
 woodpecker.uc.cn
 www.google-analytics.com
-www.googleadservices.com
 www.googletagmanager.com
 www.googletagservices.com
