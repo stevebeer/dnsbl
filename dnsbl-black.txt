@@ -28,7 +28,7 @@ gm.tools.avast.com
 au.avastbrowser.com
 NL.lgtvsdp.com
 arc.msn.com
-graph.facebook.com
+#graph.facebook.com (nescessary for Facebook use)
 app-measurement.com
 Logx.optimizely.com
 app.adjust.com
