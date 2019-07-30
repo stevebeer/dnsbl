@@ -50,3 +50,4 @@ profile.accounts.firefox.com
 token.services.mozilla.com
 sync-669-us-west-2.sync.services.mozilla.com
 api.accounts.firefox.com
+detectportal.firefox.com
