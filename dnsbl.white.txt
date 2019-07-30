@@ -39,8 +39,14 @@ tweakers.net
 tweakimg.net	
 twitter.com	
 vdeweb.com	
-vrbzo.nl	
+vrbzo.nl
+hk.goodwe-power.com
 wlxrs.com	
 youforce.biz	
 youtube.com	
 ytimg.com	
+
+profile.accounts.firefox.com
+token.services.mozilla.com
+sync-669-us-west-2.sync.services.mozilla.com
+api.accounts.firefox.com
