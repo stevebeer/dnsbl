@@ -6,3 +6,5 @@ adservice.google.nl
 pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 www.googleadservices.com
+a.applvn.com
+scomcluster.cxense.com
