@@ -1,3 +1,4 @@
+socialize.eu1.gigya.com
 ads.mopub.com                             #mobile ads by Twitter company
 adservice.google.com                      #ads by Google
 z.moatads.com                             #ads by moat.com
@@ -8,3 +9,4 @@ securepubads.g.doubleclick.net
 www.googleadservices.com
 a.applvn.com
 scomcluster.cxense.com
+match.adsrvr.org
